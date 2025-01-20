@@ -7,8 +7,9 @@
 
 <br>
 
-- 🌱 Currently learning **NextJS, TypeScript, Machine Learning, and DevOps**
-- 🔍 Looking for chances to work together on open-source projects.
+- 🌱 **Exploring New Technologies**: Constantly diving into the latest advancements in **AI, Web Development, and Software Engineering** to stay ahead in the tech industry.
+- 🌍 **Participating in Hackathons**: Engaging in coding competitions and hackathons to sharpen skills and build innovative solutions.
+- 🔍 **Building Open-Source Projects**: Looking for oppurtunities to work together on open-source projects. .
 
 ## 🌐 Socials:
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:aggupta0936@gmail.com)
